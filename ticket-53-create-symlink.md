@@ -68,6 +68,3 @@ readlink -f ~/elements
 
 - readlink -f resolves the full canonical path of the symlink target
 
-## Screenshots
-
-***Figure 1: stage-web — symlink creation and ls -l confirmation showing elements -**>** elements.html***
