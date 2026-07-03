@@ -96,8 +96,3 @@ ps aux | grep procored
 
 - Use Restart=on-failure in the [Service] section to auto-restart the daemon if it crashes
 
-## Screenshots
-
-***Figure 1: dev-app — procored binary deployment and systemd unit file creation***
-
-***Figure 2: systemctl status procored showing service active and running***
