@@ -91,8 +91,3 @@ cat /tmp/serverinfo.info
 
 - hostname -I returns all IP addresses of the host (vs hostname -i which may return 127.0.0.1)
 
-## Screenshots
-
-***Figure 1: dev-app — serverinfo.sh script content and execution***
-
-***Figure 2: cat /tmp/serverinfo.info output showing date, users, swap, kernel, IP***
