@@ -74,8 +74,3 @@ stat /setup_file.cfg
 
 - Always verify the script exists and is readable from the NFS share before running
 
-## Screenshots
-
-***Figure 1: dev-app — performance.sh executed as root, /setup_file.cfg created and verified***
-
-***Figure 2: stat /setup_file.cfg showing file metadata and creation timestamp***
