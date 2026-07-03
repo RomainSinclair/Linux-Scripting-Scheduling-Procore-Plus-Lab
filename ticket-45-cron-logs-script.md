@@ -108,8 +108,3 @@ sudo find /lfjs -type f -mmin -10 -ls
 
 - Run the script manually first before waiting for cron to fire — confirms the script works independently
 
-## Screenshots
-
-***Figure 1: dev-app — crontab configuration showing 6-hour logs.sh schedule***
-
-***Figure 2: crond service status and manual script run showing /lfjs output***
