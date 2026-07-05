@@ -14,7 +14,7 @@ Bash scripting · cron/crontab · systemd unit files · symlinks · system infor
 
 | Ticket | Title | Documentation |
 | --- | --- | --- |
-| #45 | Configure Cron Job for logs.sh (Every 6 Hours) | [Ticket 45](tickets/ticket-45-cron-logs-script.md) |
+| #45 | Configure Cron Job for logs.sh (Every 6 Hours) | [ticket-45-cron-logs-script.md](tickets/ticket-45-cron-logs-script.md) |
 | #53 | Create a Symlink | [Ticket 53](tickets/ticket-53-create-symlink.md) |
 | #57 | Create a Script to Gather System Information | [Ticket 57](tickets/ticket-57-system-info-script.md) |
 | #62 | Create a Systemd Service for procored | [Ticket 62](tickets/ticket-62-systemd-procored-service.md) |
